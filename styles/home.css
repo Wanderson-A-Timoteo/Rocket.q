@@ -53,7 +53,8 @@ button,
   margin-right: 1.5rem;
 }
 
-#btn-entrar img {
+#btn-create-room img,
+#btn-enter-room img {
   margin-right: 1.5rem;
 }
 
