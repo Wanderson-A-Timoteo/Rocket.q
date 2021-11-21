@@ -1,0 +1,24 @@
+{
+  "name": "Rocket.q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios direcionadas ao dono da pagina. Desenvolvido durante a NLW Together, mission Discover",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanderson-A-Timoteo/Rocket.q.git"
+  },
+  "keywords": [],
+  "author": "Wanderson A. Timoteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wanderson-A-Timoteo/Rocket.q/issues"
+  },
+  "homepage": "https://github.com/Wanderson-A-Timoteo/Rocket.q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}

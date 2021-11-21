@@ -30,7 +30,7 @@
 }
 
 #room header .buttons .button:nth-child(2) img {
-  margin-right: 1rem;
+  /* margin-right: 1rem; */
   width: 2rem;
   height: 2rem;
 }
@@ -50,6 +50,8 @@
   border: 0.2rem solid var(--grey-blue);
   padding: 1.6rem;
   border-radius: 0 0.8rem 0.8rem 0.8rem;
+
+  margin-bottom: 1.6rem;
 }
 
 #question-form form textarea {
@@ -92,10 +94,6 @@
 }
 
 /*----------------------------------- Questions ----------------------------------------*/
-.questions {
-  margin-top: 2rem;
-}
-
 .question-wrapper {
   background: var(--light-blue);
   margin-bottom: 0.8rem;
