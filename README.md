@@ -134,7 +134,13 @@ Feito com ♥ by
 
 - [**Wanderson A. Timóteo**](https://wanderson.tk)
 
+<br>
+
 ## Agradecimentos:
+
+<h2 align="center">
+    Rocketseat
+</h2>
 
 <h1 align="center">
     <img width="400"
@@ -145,6 +151,6 @@ Feito com ♥ by
 
 Projeto desenvolvido durante a [NLW Together Mission Discover](https://app.rocketseat.com.br)
 
-Agradecimento a [Jake Gracielly](https://github.com/jakeliny) por compartilhar conteúdo relevante e com qualidade de ensino. -->
+Agradecimento a [Jake Gracielly](https://github.com/jakeliny) por compartilhar conteúdo relevante e com qualidade de ensino.
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
