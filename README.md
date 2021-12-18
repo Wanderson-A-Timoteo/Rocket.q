@@ -35,7 +35,7 @@ Tela inicial do sistema.
 
 Funções do sistema em Gift
 
-- [Assistir no YouTube](https://youtu.be/6TdaYXS4rXU)
+- [Assistir no YouTube](https://www.youtube.com/watch?v=sDwDWC32cOc)
 
 <p align="center">
     <img alt="Rocket.Q" title="Rocket.Q Gift" src=".github/rocketq.gif" />
